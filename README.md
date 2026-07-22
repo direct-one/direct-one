@@ -30,3 +30,5 @@
   <img src="https://img.shields.io/badge/AXI4_Lite-000000?style=for-the-badge&logo=arm&logoColor=white">
   <img src="https://img.shields.io/badge/UART_%2F_SPI_%2F_I2C-FF6B6B?style=for-the-badge&logo=circuitverse&logoColor=white">
 </div>
+
+### 교육 이력
