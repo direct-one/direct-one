@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=auto&text=DIRECT_ONE&fontSize=60&animation=fadeIn)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=auto&fontColor=black&text=DIRECT_ONE&fontSize=60&animation=fadeIn" width="100%"/>
+</div>
 
 ## 🛠 Tech Stacks
 ### 💻 Languages & RTL
