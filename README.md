@@ -58,9 +58,9 @@
 ### 3. Embedded Systems & Hardware
 * **[UART FIFO 기반 Stopwatch, Clock 및 센서 제어](https://github.com/direct-one/Designing_a_StopWatch_Device_with_FND)**
   * FIFO 구조를 적용한 UART 통신을 통해 스톱워치, 실시간 시계(Clock), 각종 센서 데이터 연동 및 제어
-* **라즈베리파이 4 기반 자동 심장압박기 및 인공호흡기** (링크 추가 예정)
+* **[라즈베리파이 4 기반 자동 심장압박기 및 인공호흡기](https://github.com/direct-one/Automated_CPR_Chest_Compressor_Ventilator_System_using_Raspberry_Pi_4)**
   * Raspberry Pi 4를 활용한 의료 보조 기기(자동 심장충격/압박 및 인공호흡 제어 시스템) 프로토타입 구현
-* **Atmega128 기반 스마트홈 시스템 설계** (링크 추가 예정)
+* **[Atmega128 기반 스마트홈 시스템 설계](https://github.com/direct-one/SmartHome_Using_Atmega128)**
   * ATmega128 마이크로컨트롤러를 중심으로 한 홈오토메이션 센서 네트워크 및 제어 시스템 구축
 
 ### 4. Digital Design & Display
