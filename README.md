@@ -66,3 +66,5 @@
 ### 4. Digital Design & Display
 * **[VGA 인터페이스 기반 Whack-A-Mole (두더지 잡기) 게임 구현](https://github.com/direct-one/OV7670_Based_Whack_a_Mole_Game_Using_VGA)**
   * 하드웨어 로직 및 컨트롤러를 설계하여 VGA 디스플레이 출력을 통한 실시간 게임 구현
+* **[Smart Factory with AMR(자율주행로봇)]()**
+  * 로봇팔, 자율주행로봇(LiDAR), FPGA 디스플레이, AI 추론 학습으로 구성된 스마트 팩토리 프로젝트 
